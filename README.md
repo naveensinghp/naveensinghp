@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on ... [Vidsysoft Technology](https://www.vidsysoft.com)
-- 🌱 I’m currently learning ... three.js 
+- 🌱 I’m currently learning ... node.js 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... AWS
 - 💬 Ask me about ... Anything
