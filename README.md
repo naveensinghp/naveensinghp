@@ -4,12 +4,12 @@
 
 - 🔭 I’m currently working on ... [Vidsysoft Technology](https://www.vidsysoft.com)
 - 🌱 I’m currently learning ... node.js 
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on Community
 - 🤔 I’m looking for help with ... AWS
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [NaveensinghMtp](https://twitter.com/NaveensinghMtp)
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I spend almost 1 hour daily to explore it
+- ⚡ Fun fact: ... Most people break up on Mondays.
 
 
 ## Languages and Tools:
