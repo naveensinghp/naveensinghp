@@ -8,7 +8,6 @@
 - 🤔 I’m looking for help with ... AWS
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [NaveensinghMtp](https://twitter.com/NaveensinghMtp)
-- 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Most people break up on Mondays.
 
 
