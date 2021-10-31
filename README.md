@@ -4,7 +4,7 @@
 <hr>
 
 - 🔭 I’m currently working on ... [Vidsysoft Technology](https://www.vidsysoft.com)
-- 🌱 I’m currently learning ... node.js 
+- 🌱 I’m currently learning ... Android 
 - 👯 I’m looking to collaborate on Community
 - 🤔 I’m looking for help with ... AWS
 - 💬 Ask me about ... Anything
