@@ -27,5 +27,8 @@ href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e8235
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=naveensinghp&include_all_commits=true">
+<img src="https://github-readme-stats.vercel.app/api?username=naveensinghp&include_all_commits=true&theme=buefy">
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=naveensinghp&theme=buefy&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
