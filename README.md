@@ -4,8 +4,8 @@
 <hr>
 
 - 🔭 I’m currently working on ... [Vidsysoft Technology](https://www.vidsysoft.com)
-- 🌱 I’m currently learning ... Android 
-- 👯 I’m looking to collaborate on Community
+- 🌱 I’m currently learning ... Mobile Development 
+- 👯 I’m looking to collaborate on Open Source Community
 - 🤔 I’m looking for help with ... AWS
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [NaveensinghMtp](https://twitter.com/NaveensinghMtp)
