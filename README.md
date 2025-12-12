@@ -9,4 +9,4 @@
 - 🤔 I’m looking for help with ... Microservice 
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [NaveensinghMtp](https://twitter.com/NaveensinghMtp)
-- ⚡ Real fact: ... Impact is Everything.
+- ⚡ Real fact: ... Impact is Everything
