@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on ... [Vidsysoft Technology](https://www.vidsysoft.com)
 - 🌱 I’m currently learning ... DSA 
-- 👯 I’m looking to collaborate on Open Source Community
+- 👯 I’m looking to collaborate in Open Source Community
 - 🤔 I’m looking for help with ... Microservice 
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [NaveensinghMtp](https://twitter.com/NaveensinghMtp)
